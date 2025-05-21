@@ -6,5 +6,4 @@ Current phase: adding private keys, using uniswap pools and more features.
 For making your own wallet contact me: https://t.me/dashclss
 
 ![sampleImg](assets/1.png)
-
-<video src="assets/video.mp4" controls width="600"></video>
+![video](assets/video.mp4)
